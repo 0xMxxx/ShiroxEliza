@@ -1,0 +1,10 @@
+logs/
+venv/
+.idea/
+**/actual_states/*
+**/__pycache__/*
+creds
+*.xlsx
+*.txt
+suspect_decisions.py
+teams/teams

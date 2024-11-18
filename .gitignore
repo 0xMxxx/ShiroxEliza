@@ -2,6 +2,7 @@ node_modules
 /out
 
 .env
+env
 concatenated-output.ts
 embedding-cache.json
 

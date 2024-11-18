@@ -1,0 +1,395 @@
+{
+    "turn": 31,
+    "user": {
+        "active": {
+            "dead": false,
+            "id": "hooh",
+            "level": 70,
+            "types": [
+                "fire",
+                "flying"
+            ],
+            "hp": 264.0,
+            "maxhp": 264.0,
+            "ability": "pressure",
+            "item": "leftovers",
+            "baseStats": {
+                "hp": 106,
+                "attack": 130,
+                "defense": 90,
+                "special-attack": 110,
+                "special-defense": 154,
+                "speed": 90
+            },
+            "stats": {
+                "attack": 187,
+                "defense": 167,
+                "special-attack": 195,
+                "special-defense": 257,
+                "speed": 167
+            },
+            "nature": "serious",
+            "evs": [
+                85,
+                85,
+                85,
+                85,
+                85,
+                85
+            ],
+            "boosts": {
+                "special-defense": -1
+            },
+            "status": null,
+            "terastallized": false,
+            "volatileStatus": [],
+            "moves": [
+                {
+                    "id": "sacredfire",
+                    "disabled": false,
+                    "current_pp": 3
+                },
+                {
+                    "id": "substitute",
+                    "disabled": false,
+                    "current_pp": 11
+                },
+                {
+                    "id": "recover",
+                    "disabled": false,
+                    "current_pp": 28
+                },
+                {
+                    "id": "thunderbolt",
+                    "disabled": false,
+                    "current_pp": 23
+                }
+            ]
+        }
+    },
+    "opponent": {
+        "active": {
+            "dead": false,
+            "id": "cloyster",
+            "level": 82,
+            "types": [
+                "water",
+                "ice"
+            ],
+            "hp": 43.2,
+            "maxhp": 216,
+            "ability": null,
+            "item": "leftovers",
+            "baseStats": {
+                "hp": 50,
+                "attack": 95,
+                "defense": 180,
+                "special-attack": 85,
+                "special-defense": 45,
+                "speed": 70
+            },
+            "stats": {
+                "attack": 203,
+                "defense": 342,
+                "special-attack": 187,
+                "special-defense": 121,
+                "speed": 162
+            },
+            "nature": "serious",
+            "evs": [
+                85,
+                85,
+                85,
+                85,
+                85,
+                85
+            ],
+            "boosts": {},
+            "status": null,
+            "terastallized": false,
+            "volatileStatus": [],
+            "moves": [
+                {
+                    "id": "surf",
+                    "disabled": false,
+                    "current_pp": 22
+                },
+                {
+                    "id": "icebeam",
+                    "disabled": false,
+                    "current_pp": 15
+                }
+            ]
+        },
+        "reserve": [
+            {
+                "dead": false,
+                "id": "sableye",
+                "level": 90,
+                "types": [
+                    "dark",
+                    "ghost"
+                ],
+                "hp": 0,
+                "maxhp": 236,
+                "ability": null,
+                "item": "leftovers",
+                "baseStats": {
+                    "hp": 50,
+                    "attack": 75,
+                    "defense": 75,
+                    "special-attack": 65,
+                    "special-defense": 65,
+                    "speed": 50
+                },
+                "stats": {
+                    "attack": 186,
+                    "defense": 186,
+                    "special-attack": 168,
+                    "special-defense": 168,
+                    "speed": 141
+                },
+                "nature": "serious",
+                "evs": [
+                    85,
+                    85,
+                    85,
+                    85,
+                    85,
+                    85
+                ],
+                "boosts": {},
+                "status": "tox",
+                "terastallized": false,
+                "volatileStatus": [],
+                "moves": [
+                    {
+                        "id": "toxic",
+                        "disabled": false,
+                        "current_pp": 14
+                    },
+                    {
+                        "id": "seismictoss",
+                        "disabled": false,
+                        "current_pp": 31
+                    }
+                ]
+            },
+            {
+                "dead": false,
+                "id": "slowking",
+                "level": 84,
+                "types": [
+                    "water",
+                    "psychic"
+                ],
+                "hp": 0,
+                "maxhp": 297,
+                "ability": null,
+                "item": "unknown_item",
+                "baseStats": {
+                    "hp": 95,
+                    "attack": 75,
+                    "defense": 80,
+                    "special-attack": 100,
+                    "special-defense": 110,
+                    "speed": 30
+                },
+                "stats": {
+                    "attack": 174,
+                    "defense": 183,
+                    "special-attack": 216,
+                    "special-defense": 233,
+                    "speed": 99
+                },
+                "nature": "serious",
+                "evs": [
+                    85,
+                    85,
+                    85,
+                    85,
+                    85,
+                    85
+                ],
+                "boosts": {},
+                "status": "par",
+                "terastallized": false,
+                "volatileStatus": [],
+                "moves": [
+                    {
+                        "id": "calmmind",
+                        "disabled": false,
+                        "current_pp": 30
+                    },
+                    {
+                        "id": "psychic",
+                        "disabled": false,
+                        "current_pp": 14
+                    }
+                ]
+            },
+            {
+                "dead": false,
+                "id": "groudon",
+                "level": 69,
+                "types": [
+                    "ground"
+                ],
+                "hp": 0,
+                "maxhp": 252,
+                "ability": "drought",
+                "item": "unknown_item",
+                "baseStats": {
+                    "hp": 100,
+                    "attack": 150,
+                    "defense": 140,
+                    "special-attack": 100,
+                    "special-defense": 90,
+                    "speed": 90
+                },
+                "stats": {
+                    "attack": 247,
+                    "defense": 234,
+                    "special-attack": 178,
+                    "special-defense": 165,
+                    "speed": 165
+                },
+                "nature": "serious",
+                "evs": [
+                    85,
+                    85,
+                    85,
+                    85,
+                    85,
+                    85
+                ],
+                "boosts": {},
+                "status": null,
+                "terastallized": false,
+                "volatileStatus": [],
+                "moves": [
+                    {
+                        "id": "overheat",
+                        "disabled": false,
+                        "current_pp": 7
+                    }
+                ]
+            },
+            {
+                "dead": false,
+                "id": "linoone",
+                "level": 82,
+                "types": [
+                    "normal"
+                ],
+                "hp": 0,
+                "maxhp": 262,
+                "ability": null,
+                "item": null,
+                "baseStats": {
+                    "hp": 78,
+                    "attack": 70,
+                    "defense": 61,
+                    "special-attack": 50,
+                    "special-defense": 61,
+                    "speed": 100
+                },
+                "stats": {
+                    "attack": 162,
+                    "defense": 147,
+                    "special-attack": 129,
+                    "special-defense": 147,
+                    "speed": 211
+                },
+                "nature": "serious",
+                "evs": [
+                    85,
+                    85,
+                    85,
+                    85,
+                    85,
+                    85
+                ],
+                "boosts": {},
+                "status": "brn",
+                "terastallized": false,
+                "volatileStatus": [],
+                "moves": [
+                    {
+                        "id": "return",
+                        "disabled": false,
+                        "current_pp": 31
+                    }
+                ]
+            },
+            {
+                "dead": false,
+                "id": "nidoqueen",
+                "level": 82,
+                "types": [
+                    "poison",
+                    "ground"
+                ],
+                "hp": 0,
+                "maxhp": 282,
+                "ability": null,
+                "item": "leftovers",
+                "baseStats": {
+                    "hp": 90,
+                    "attack": 92,
+                    "defense": 87,
+                    "special-attack": 75,
+                    "special-defense": 85,
+                    "speed": 76
+                },
+                "stats": {
+                    "attack": 198,
+                    "defense": 190,
+                    "special-attack": 170,
+                    "special-defense": 187,
+                    "speed": 172
+                },
+                "nature": "serious",
+                "evs": [
+                    85,
+                    85,
+                    85,
+                    85,
+                    85,
+                    85
+                ],
+                "boosts": {},
+                "status": "brn",
+                "terastallized": false,
+                "volatileStatus": [],
+                "moves": [
+                    {
+                        "id": "earthquake",
+                        "disabled": false,
+                        "current_pp": 14
+                    },
+                    {
+                        "id": "sludgebomb",
+                        "disabled": false,
+                        "current_pp": 13
+                    },
+                    {
+                        "id": "shadowball",
+                        "disabled": false,
+                        "current_pp": 20
+                    }
+                ]
+            }
+        ],
+        "side_conditions": {
+            "tailwind": 0,
+            "protect": 0,
+            "toxic_count": 0,
+            "stealthrock": 0,
+            "spikes": 0,
+            "toxicspikes": 0,
+            "stickyweb": 0
+        }
+    },
+    "weather": "sunnyday"
+}
